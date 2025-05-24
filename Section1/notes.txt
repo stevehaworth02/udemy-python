@@ -10,4 +10,13 @@ Check out the FAQ lecture
 Submit new question in QA forums
 * Details on what you've tried
 * Screenshot of error or code
+* Platform issues
+email : support@udemy.com
+* Video playbnack issues
+* Certificate Issues
+
+How to approach the course?
+Review the notebooks along with the video
+* Beginners: Read extra notes in the notebook along with the video guide.
+* Experienced: Read the notebooks to see if you only need to review certain parts of the video lecture
 
