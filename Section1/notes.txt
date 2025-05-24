@@ -1,0 +1,13 @@
+Use udemy app to download lectures
+
+Q&A forums for questions
+
+Help in mnore detail:
+
+Double check against course notebooks
+Quick google or stackoverflow search
+Check out the FAQ lecture
+Submit new question in QA forums
+* Details on what you've tried
+* Screenshot of error or code
+
